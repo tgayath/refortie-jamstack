@@ -1,1 +1,1 @@
-{}
+{"auth":{"rolesSource":"/api/getRolesForUsers","identityProviders":{"azureActiveDirectory":{"registration":{"openIdIssuer":"https://login.microsoftonline.com/bb34272d-0432-4e5e-9f0f-e7aca4a450a8","clientIdSettingName":"AZURE_CLIENT_ID","clientSecretSettingName":"AZURE_CLIENT_SECRET_APP_SETTING_NAME"}},"facebook":{"registration":{"clientIdSettingName":"FACEBOOK_APP_ID","clientSecretSettingName":"FACEBOOK_APP_SECRET_APP_SETTING_NAME"}}}}}
